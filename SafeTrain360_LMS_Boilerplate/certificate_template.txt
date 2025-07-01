@@ -1,0 +1,5 @@
+Certificate of Completion
+
+This certifies that {{name}} has completed the {{course}} training on {{date}}.
+
+Authorized by SafeTrain360.
