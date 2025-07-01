@@ -1,0 +1,12 @@
+{
+  "name": "safetrain360_lms_boilerplate",
+  "version": "1.0.0",
+  "description": "This is a minimal LMS system using React + Supabase.",
+  "main": "supabaseClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
