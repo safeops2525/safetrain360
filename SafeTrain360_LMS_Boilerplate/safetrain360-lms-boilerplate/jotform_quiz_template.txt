@@ -1,0 +1,6 @@
+Jotform Quiz Template:
+- Field 1: Full Name
+- Field 2: Email
+- Dropdown: Select Course (WHMIS, Ladder Safety, etc)
+- 3-5 Multiple Choice Questions
+- Final Message: 'Your certificate will be emailed shortly.'
